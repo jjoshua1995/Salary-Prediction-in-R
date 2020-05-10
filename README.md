@@ -22,4 +22,5 @@ The training data is split into two files namely train_features and train_salari
 
 # Descriptive statistics
 The training data consists of 1 million records and 9 variables.
+![alt text](https://github.com/jjoshua1995/Salary-Prediction-in-R/blob/master/Figures/Descriptive%20stats.PNG)
 
