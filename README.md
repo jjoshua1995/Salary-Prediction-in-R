@@ -1,3 +1,6 @@
+Full R code:
+https://jjoshua1995.github.io/Salary-Prediction-in-R/docs/Salary_Prediction_R.html
+
 # Salary Prediction in R
 
 
